@@ -1,5 +1,5 @@
 import os
-
+print ('\033[1;31msend me your key \033[1;32mNida')
 if __name__ == "__main__":
 
    try:
